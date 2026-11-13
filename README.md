@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Yury 👋
 
-<!--
-**Yury-Chernyavski/Yury-Chernyavski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-focused software engineer growing into full-stack. 
+I like apps where performance and architecture actually matter: 
+real-time data, heavy charts, multi-window desktop clients.
 
-Here are some ideas to get you started:
+## What I've worked on
+- 📈 **Desktop trading app (Electron + React):** real-time charts on 
+  SciChart, multi-window architecture, IPC, state management with Zustand 
+  and Feature-Sliced Design
+- 🧩 **Several parallel web products as the sole frontend engineer:** 
+  admin panel, customer portal, online shop, internal tools; defined API 
+  contracts with backend and owned frontend quality
+- 🤖 **LLM response streaming in UI** and daily AI-assisted dev workflow 
+  (Claude Code, Cursor)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+**Frontend:** React · Next.js · TypeScript · Redux · Zustand
+**Backend:** Node.js · NestJS · REST
+**Desktop:** Electron
+
+📫 [LinkedIn](https://www.linkedin.com/in/yury-chernyavski/)
